@@ -21,10 +21,8 @@ package org.japo.java.main;
  */
 public class Main {
 
-   
     public static void main(String[] args) {
         System.out.print("DNI:45804182");
         System.out.println("G");
     }
-    
 }
